@@ -22,7 +22,7 @@ const CONFIG = {
   LAT:             45.205,
   LON:             5.965,
   ELEVATION:       1400,
-  WEBCAM_URL:      'https://cretdupoulet.epok.network/camera/cret_du_poulet.jpg',
+  WEBCAM_URL:      'https://cretdupoulet.epok.network/cret_du_poulet.jpg',
   FOYER_OPEN:      9,
   FOYER_CLOSE:     17,
   REFRESH_MS:      15 * 60 * 1000,  // 15 min
